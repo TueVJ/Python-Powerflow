@@ -1,0 +1,5 @@
+ID,name,country,origin,latitude,longitude,status,primaryfuel,secondaryfuel,capacity,lincost,cyclecost,minuptime,mindowntime,minonlinecapacity,upreg,downreg,upregcost,downregcost
+g1,g1,Z1,n1,1,-3,Online,Oil,None,60,70,750,3,2,12,40,40,74,68
+g2,g2,Z1,n2,-2,-2,Online,Gas,None,130,50,1500,8,4,26,40,40,54,48
+g3,g3,Z1,n3,3,-4,Online,Gas,None,170,40,2000,8,4,34,30,30,44,38
+g4,g4,Z1,n4,-1,3,Online,Coal,None,190,30,2200,8,8,38,30,30,34,28
